@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/bin/Debug/net7.0/task17
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/bin/Debug/net7.0/task17.deps.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/bin/Debug/net7.0/task17.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/bin/Debug/net7.0/task17.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/bin/Debug/net7.0/task17.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/refint/task17.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/task17.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task17/obj/Debug/net7.0/ref/task17.dll

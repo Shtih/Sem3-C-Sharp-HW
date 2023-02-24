@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/bin/Debug/net7.0/task18method
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/bin/Debug/net7.0/task18method.deps.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/bin/Debug/net7.0/task18method.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/bin/Debug/net7.0/task18method.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/bin/Debug/net7.0/task18method.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/refint/task18method.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/task18method.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task18method/obj/Debug/net7.0/ref/task18method.dll

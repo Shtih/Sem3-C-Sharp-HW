@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/bin/Debug/net7.0/task22forcycle
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/bin/Debug/net7.0/task22forcycle.deps.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/bin/Debug/net7.0/task22forcycle.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/bin/Debug/net7.0/task22forcycle.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/bin/Debug/net7.0/task22forcycle.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/refint/task22forcycle.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/task22forcycle.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task22forcycle/obj/Debug/net7.0/ref/task22forcycle.dll

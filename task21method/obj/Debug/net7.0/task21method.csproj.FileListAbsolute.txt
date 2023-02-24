@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/bin/Debug/net7.0/task21method
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/bin/Debug/net7.0/task21method.deps.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/bin/Debug/net7.0/task21method.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/bin/Debug/net7.0/task21method.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/bin/Debug/net7.0/task21method.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/refint/task21method.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/task21method.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task21method/obj/Debug/net7.0/ref/task21method.dll

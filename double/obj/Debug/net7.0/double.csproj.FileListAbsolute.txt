@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/double/bin/Debug/net7.0/double
+/Users/juliashtih/Documents/C#/Sem3 C#/double/bin/Debug/net7.0/double.deps.json
+/Users/juliashtih/Documents/C#/Sem3 C#/double/bin/Debug/net7.0/double.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem3 C#/double/bin/Debug/net7.0/double.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/double/bin/Debug/net7.0/double.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/refint/double.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/double.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/double/obj/Debug/net7.0/ref/double.dll

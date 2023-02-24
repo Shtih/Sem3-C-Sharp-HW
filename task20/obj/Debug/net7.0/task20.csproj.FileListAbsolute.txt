@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/bin/Debug/net7.0/task20
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/bin/Debug/net7.0/task20.deps.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/bin/Debug/net7.0/task20.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/bin/Debug/net7.0/task20.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/bin/Debug/net7.0/task20.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/refint/task20.dll
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.pdb
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/task20.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem3 C#/task20/obj/Debug/net7.0/ref/task20.dll
